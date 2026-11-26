@@ -6,7 +6,7 @@
 
 Community work, paid trustlessly on Stellar. Post a task, lock USDC in escrow, workers submit proof, payment settles in seconds.
 
-[Website](https://sorowork.xyz) · [Documentation](https://docs.sorowork.xyz)
+[Website](https://sorowork.netlify.app/) · [Documentation](https://docs.sorowork.xyz)
 
 </div>
 
