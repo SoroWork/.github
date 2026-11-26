@@ -28,7 +28,7 @@ No middlemen. No delayed payments. No trust required.
 
 ---
 
-## 🧩 How It Works
+## How It Works
 
 ```
 Community Leader                    SoroWork                           Worker
@@ -55,7 +55,7 @@ Community Leader                    SoroWork                           Worker
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 SoroWork is built across **three repositories**, each handling a distinct layer of the platform:
 
@@ -75,24 +75,24 @@ SoroWork is built across **three repositories**, each handling a distinct layer 
 
 ---
 
-## 🌍 What Kind of Work?
+## What Kind of Work?
 
 SoroWork is built for **real-world community tasks** — physical work that makes neighborhoods better:
 
 | Category | Examples |
 |:--|:--|
-| 🧹 **Cleanup** | Park cleanups, litter removal, debris clearing |
-| 🔧 **Repair** | Pothole filling, fence fixing, bench repair |
-| 🌿 **Landscaping** | Planting, mowing, tree trimming, garden maintenance |
-| 🎨 **Painting** | Mural painting, wall repainting, graffiti removal |
-| 🏗️ **Construction** | Sidewalk repair, ramp building, playground equipment |
-| 🌱 **Environmental** | Stream cleanup, invasive species removal, composting |
-| 🛡️ **Safety** | Streetlight repair, sign installation, crosswalk painting |
-| 🔧 **Maintenance** | Public restroom maintenance, drain clearing, trail upkeep |
+| **Cleanup** | Park cleanups, litter removal, debris clearing |
+| **Repair** | Pothole filling, fence fixing, bench repair |
+| **Landscaping** | Planting, mowing, tree trimming, garden maintenance |
+| **Painting** | Mural painting, wall repainting, graffiti removal |
+| **Construction** | Sidewalk repair, ramp building, playground equipment |
+| **Environmental** | Stream cleanup, invasive species removal, composting |
+| **Safety** | Streetlight repair, sign installation, crosswalk painting |
+| **Maintenance** | Public restroom maintenance, drain clearing, trail upkeep |
 
 ---
 
-## 💰 Payment Flow
+## Payment Flow
 
 - **Currency**: USDC (stablecoin on Stellar)
 - **Escrow**: Funds locked in a Soroban smart contract at task creation
@@ -103,7 +103,7 @@ SoroWork is built for **real-world community tasks** — physical work that make
 
 ---
 
-## 🔐 Trust Model
+## Trust Model
 
 | Principle | How |
 |:--|:--|
@@ -115,7 +115,7 @@ SoroWork is built for **real-world community tasks** — physical work that make
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### For Community Leaders
 1. Install the [Freighter wallet](https://freighter.app)
@@ -132,7 +132,7 @@ SoroWork is built for **real-world community tasks** — physical work that make
 
 ---
 
-## 🛠️ Development
+## Development
 
 ```bash
 # Contracts (Rust/Soroban)
@@ -155,7 +155,7 @@ npm run dev
 
 ---
 
-## 🌐 Built On
+## Built On
 
 <div align="center">
 
