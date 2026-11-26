@@ -16,7 +16,7 @@ No middlemen. No delayed payments. No trust required.
 
 </div>
 
-## 📸 Preview
+## Preview
 
 <div align="center">
 
