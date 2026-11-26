@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SoroWork/.github/main/assets/logo.png" alt="SoroWork Logo" width="80" />
-
-# SoroWork
+<h1><img src="https://raw.githubusercontent.com/SoroWork/.github/main/assets/logo.png" alt="SoroWork Logo" width="36" align="center" />&nbsp; SoroWork</h1>
 
 ### Do the work. Prove it. Get paid.
 
@@ -18,27 +16,13 @@ No middlemen. No delayed payments. No trust required.
 
 </div>
 
-## 📸 Screenshots
+## 📸 Preview
 
 <div align="center">
 
-### Landing Page
 <img src="https://raw.githubusercontent.com/SoroWork/.github/main/assets/landing-hero.png" alt="SoroWork Landing Page" width="100%" />
 
-<br/><br/>
-
-### Discover Tasks
 <img src="https://raw.githubusercontent.com/SoroWork/.github/main/assets/discover.png" alt="Discover community tasks" width="100%" />
-
-<br/><br/>
-
-### Dashboard
-<img src="https://raw.githubusercontent.com/SoroWork/.github/main/assets/dashboard.png" alt="Worker dashboard" width="100%" />
-
-<br/><br/>
-
-### Leaderboard
-<img src="https://raw.githubusercontent.com/SoroWork/.github/main/assets/leaderboard.png" alt="Community leaderboard" width="100%" />
 
 </div>
 
