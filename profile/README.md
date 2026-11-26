@@ -12,14 +12,6 @@ Community work, paid trustlessly on Stellar. Post a task, lock USDC in escrow, w
 
 ---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SoroWork/.github/main/assets/landing-hero.png" alt="SoroWork Landing Page" width="100%" />
-
-</div>
-
----
-
 ## How It Works
 
 1. Community leader posts a task (e.g. "Clean up Riverside Park") and USDC is locked in escrow
