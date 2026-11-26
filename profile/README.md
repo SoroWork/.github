@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🏘️ SoroWork
+<img src="https://raw.githubusercontent.com/SoroWork/.github/main/assets/logo.png" alt="SoroWork Logo" width="80" />
+
+# SoroWork
 
 ### Do the work. Prove it. Get paid.
 
