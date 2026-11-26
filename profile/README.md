@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="https://raw.githubusercontent.com/SoroWork/.github/main/assets/logo.png" alt="SoroWork Logo" width="36" align="center" />&nbsp; SoroWork</h1>
+<h1><img src="https://raw.githubusercontent.com/SoroWork/.github/main/assets/logo.png" alt="SoroWork Logo" width="40" align="center" />&nbsp; SoroWork</h1>
 
 ### Do the work. Prove it. Get paid.
 
